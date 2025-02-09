@@ -8,7 +8,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .box{
-    height: 64vh;
+    height: 65vh;
     width: 20vw;
     border: 2px solid white;
     border-radius: 15px;
@@ -57,7 +57,7 @@ body{
     border-radius: 25px;
     font-size: 12px;
     position: absolute;
-    top: 80%;
+    top: 83%;
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 10px;
